@@ -4,6 +4,13 @@
 
 > 2022년도 PBL 프로그램 우수작 인천시장상 수상
 
+|파일명|설명|
+|---|---|
+|cam_1.py|카메라 1대를 통해 Object Detection 하는 코드(SSD-MobileNet 사용)|
+|cam_2.py|카메라 2대를 통해 Object Detecton 하는 코드(SSD-MobileNet 사용)|
+|car_detection|카메라 1대와 YoloV3를 사용하여 Object Detection 하는 코드|
+|led_test.py|실제로 공모전에서 사용한 코드이며 차량의 앞,뒤 모습을 학습시킨 모델을 사용하여 차량을 인식하고, 그에 따라 아두이노에 신호를 보내는 코드|
+
 ## 프로젝트 기간
 2022.12.15~2023.02.03
 
