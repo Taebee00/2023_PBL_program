@@ -52,7 +52,7 @@ https://github.com/Taebee00/2023_PBL-competition/assets/104549849/4aaaf011-507c-
 |---|---|
 |빨간 선 안의 범위에 차량의 앞모습을 일정 시간동안 인식하여 진입차량으로 판단 후, 차량 진입 방향의 수직 방향의 LED가 진입 차량의 유무와 방향을 표시해주는 것을 알 수 있음|차량이 교차로를 진입했을 때 LED가 켜지고, 진출할 때는 LED가 다시 꺼지는 것을 알 수 있음|
 
-기타 시연영상 모음: https://youtu.be/AagYl6HYg5w
+> 기타 시연영상 모음: https://youtu.be/AagYl6HYg5w
 
 ### 수상
 > 인천대학교 융합형 PBL 프로그램 대상
